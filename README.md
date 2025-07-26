@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on enhancing my programming skills and eager to contribute to innovative projects.<br>👯 I’m looking to collaborate on FullStack projects<br>🌱 I’m currently learning Cloud Computing<br>📫 How to reach me: vishruthar123@gmail.com<br>
 
+![Profile Views](https://komarev.com/ghpvc/?username=r-vishrutha&color=blueviolet&style=flat-square)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/r-vishrutha-7479b92a5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishruthar123@gmail.com) 
@@ -13,8 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r-vishrutha&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-### 👀 Profile Views
-![Visitor Count](https://visitcount.itsvg.in/api?id=r-vishrutha&label=Profile%20Views&color=0&icon=5&pretty=true)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
