@@ -1,9 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on enhancing my programming skills and eager to contribute to innovative projects.<br>👯 I’m looking to collaborate on FullStack projects<br>🌱 I’m currently learning Cloud Computing<br>📫 How to reach me: vishruthar123@gmail.com<br>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=r-vishrutha&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Visitor Count"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=r-vishrutha&color=blueviolet&style=flat-square)
 
 
 
